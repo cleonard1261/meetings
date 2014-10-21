@@ -3,6 +3,22 @@ GADSDC Hacker Night: NLTK and Joblib
 
 
 
+Get Ready!!
+---
+
+*Libraries you'll need*:
+
+- [joblib](https://pythonhosted.org/joblib/parallel.html) (pip install)
+- [**NLTK**](http://www.nltk.org/)
+- [**pandas**](http://pandas.pydata.org/)
+- [pp](http://www.parallelpython.com/) (from source)
+- [**numpy**](http://www.numpy.org/)
+- [*time*](https://docs.python.org/2/library/time.html)
+- [*pickle*](https://docs.python.org/2/library/pickle.html)
+
+**Bold** are included in the most recent Anaconda distro.
+*Italic* comes standard.
+
 NLTK
 ---
 
